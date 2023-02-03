@@ -20,3 +20,5 @@ The game ends when the player runs out of lives, either by colliding with an ali
 This was tested using the versions above, but it may run on previous python and pygame versions.
 
 The game can then be run using `python alien_invasion.py` 
+
+![bottom_splash-2](https://user-images.githubusercontent.com/96312231/216712039-070abc80-8092-4899-a2fe-573d114139d3.png)
