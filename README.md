@@ -1,4 +1,6 @@
+![splash-4](https://user-images.githubusercontent.com/96312231/216709496-1b6ef39b-1d07-4658-b089-dd1f03a5e902.png)
 # Alien Invasion Game Project
+
 This small project implements an simple alien invasion game. 
 
 ## Description
