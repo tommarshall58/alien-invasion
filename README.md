@@ -1,4 +1,5 @@
-![splash-4](https://user-images.githubusercontent.com/96312231/216709496-1b6ef39b-1d07-4658-b089-dd1f03a5e902.png)
+![Top Alien Invasion Splash](https://user-images.githubusercontent.com/96312231/216989982-4a079990-62f5-423c-a957-53e4c1513c90.png)
+
 # Alien Invasion Game Project
 
 This small project implements an simple alien invasion game. 
@@ -21,4 +22,4 @@ This was tested using the versions above, but it may run on previous python and 
 
 The game can then be run using `python alien_invasion.py` 
 
-![bottom_splash-2](https://user-images.githubusercontent.com/96312231/216712039-070abc80-8092-4899-a2fe-573d114139d3.png)
+![Bottom Alien Invasion Splash](https://user-images.githubusercontent.com/96312231/216990082-4bcc771c-b26b-4f6d-b4ee-26955496a492.png)
